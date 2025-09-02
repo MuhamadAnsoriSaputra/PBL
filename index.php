@@ -8,4 +8,5 @@ ubah terus
 jangan gtu donk
 coba mengubah
 echo "semuanyah diyaammm"
+bokong semoq semoq
 ?>
