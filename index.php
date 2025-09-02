@@ -6,5 +6,6 @@ echo "ke4"
 
 SAssawdIOPSyghdjadayu
 ubah terus
+jangan gtu donk
 coba mengubah
 ?>
