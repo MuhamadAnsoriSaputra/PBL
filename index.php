@@ -1,4 +1,5 @@
 <?php
+Rubah
 echo "Suki"
 coba ubah
 ketiga
