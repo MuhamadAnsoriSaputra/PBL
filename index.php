@@ -10,4 +10,5 @@ jangan gtu donk
 coba mengubah
 echo "semuanyah diyaammm"
 aku senang masuk ti
+aku suka teknologi informasi
 ?>
