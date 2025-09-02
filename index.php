@@ -1,6 +1,6 @@
 <?php
 echo "Suki"
-coba ubah
+FSAFSAF
 ketiga
 echo "ke4"
 SAssawdIOPSyghdjadayu
