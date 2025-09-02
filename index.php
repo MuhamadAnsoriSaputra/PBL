@@ -12,4 +12,5 @@ echo "semuanyah diyaammm"
 aku senang masuk ti
 aku suka teknologi informasi
 halo, ini yaya. aku coba menambahkan teks
+Perubahan 5
 ?>
